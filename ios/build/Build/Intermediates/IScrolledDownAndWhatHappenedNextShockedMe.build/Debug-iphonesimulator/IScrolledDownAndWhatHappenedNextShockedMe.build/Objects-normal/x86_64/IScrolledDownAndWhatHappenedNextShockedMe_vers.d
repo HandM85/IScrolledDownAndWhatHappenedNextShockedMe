@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/sky/workspace/IScrolledDownAndWhatHappenedNextShockedMe/ios/build/Build/Intermediates/IScrolledDownAndWhatHappenedNextShockedMe.build/Debug-iphonesimulator/IScrolledDownAndWhatHappenedNextShockedMe.build/DerivedSources/IScrolledDownAndWhatHappenedNextShockedMe_vers.c
